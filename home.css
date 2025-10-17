@@ -1,16 +1,50 @@
 body{
     margin: 20px;
     padding: 20px;
+    color: rgb(30, 129, 116);
+    text-align: center;
+    border-radius: 12px;
+}
+
+main{
+    margin: 20px;
+    padding: 20px;
     padding-top: 20px;
     margin-top: 20px;
     margin-right: 20px;
     margin-left: 20px;
     padding-left: 20px; 
     padding-right: 20px;
-    background-color: #1974c452;
+    background-color: rgba(230, 248, 246, 0.493);
+    font-family: Arial, sans-serif;
+    color: black;
+    text-align: center;
+    border-radius: 10px;
+    border-style: solid;
+}
+
+#meds{
+overflow: hidden;
+display: flex;
+justify-content: center;
+align-items: center;
+gap: 10px;
+background-repeat: no-repeat;
+background-position: center;
+background-size: contain;
+max-width: 420px;
+max-height: 400px;
+padding: 12px;
+background-color: rgb(240, 255, 255);
+}
+
+#avail{
+    margin-top: 20px;
+    padding: 10px;
     font-family: Arial, sans-serif;
     color: white;
     text-align: center;
     border-radius: 12px;
-    
+    background-color: rgba(50, 93, 212, 0.979);
+    border-style: solid;
 }

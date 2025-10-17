@@ -1,18 +1,9 @@
-img {
-    background-position: center;
-    background-repeat: no-repeat;
-    padding: 10px;
-    margin: 10px;
-    border-radius: 10px;
-    width: 100%; 
-    height: 300px;
-    color: wheat;
-    background-color: rgba(237, 241, 173, 0.342);
+#check{
+    border: 20px;
+    background-color: rgb(48, 156, 250);
+
 }
 
-footer{
-    text-align: center;
-    text-decoration: solid;
-    padding: 10px;
-    margin: 10px;
+#CHECK{
+    border: 20px;
 }
