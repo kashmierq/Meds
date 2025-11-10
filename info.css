@@ -9,3 +9,13 @@ img{
     color: rgb(255, 204, 109);
     background-color: rgba(168, 220, 223, 0.658);
 }
+
+section{
+    background-image: url(./light-green-background-q5cidc14qxasw0hu.jpg);
+}
+
+p{
+    color: rgb(0, 0, 0);
+    text-decoration: solid;
+
+}

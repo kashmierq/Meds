@@ -21,6 +21,7 @@ main{
     text-align: center;
     border-radius: 10px;
     border-style: solid;
+    background-image: url(./light-green-background-q5cidc14qxasw0hu.jpg);
 }
 
 #meds{
@@ -35,7 +36,7 @@ background-size: contain;
 max-width: 420px;
 max-height: 400px;
 padding: 12px;
-background-color: rgb(240, 255, 255);
+
 }
 
 #avail{
